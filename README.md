@@ -140,12 +140,6 @@ For major changes, please open an issue first to discuss what you'd like to chan
 
 ---
 
-## 📜 License
-
-MIT License – free to use, modify and distribute.
-
----
-
 ## 👤 Author
 
 **Devora Berkowitz**  
