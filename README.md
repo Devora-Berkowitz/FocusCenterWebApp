@@ -48,7 +48,7 @@ cd FocusCenterWebApp
 
 ### 2. Frontend (React)
 ```bash
-cd client
+cd keshev-focus-hub
 npm install
 npm run dev
 ```
